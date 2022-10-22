@@ -1,0 +1,27 @@
+# app
+app-admin/doas
+app-editors/neovim
+
+# dev
+dev-vcs/git
+
+# x11
+x11-base/xorg-server
+x11-base/xorg-drivers
+x11-apps/xinit
+x11-apps/xrandr
+x11-apps/xbacklight
+x11-misc/xclip
+x11-misc/picom
+x11-libs/libX11
+x11-libs/libXft
+x11-libs/libXrandr
+x11-libs/libXinerama
+
+# media
+media-gfx/feh
+media-sound/alsa-utils
+media-sound/pulseaudio
+
+# www
+www-client/firefox-bin
